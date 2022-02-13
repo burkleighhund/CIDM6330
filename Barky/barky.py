@@ -1,5 +1,5 @@
 """
-This module provides the presentation layer and can be consdired "the program."
+This module provides the presentation layer and can be considered "the program."
 
 This module facilitates an infinite loop that:
 1. Clears the screen
